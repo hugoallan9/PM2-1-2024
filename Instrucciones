@@ -1,0 +1,2 @@
+1. Crear una vista en la app polls que permita crear preguntas, con sus opciones de respuesta.
+2. Desplegar esta vista en la url polls/crear-pregunta
